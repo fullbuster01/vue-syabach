@@ -1,0 +1,12 @@
+token = IGQVJXOW9FZAzJUdnBObVBDeHZABZAy1mc3doUE1tcVRyblBmSHQ1RnN1TzdnYjA2ZAmpsd0pER21QR08wZAXV3dFEyQVA5cFRtTVI3UjdaZAVpPZAnpsSHhsSUZAmUTZACOTlaNll3b3FObE5DTDUxc3kwOUJ5VAZDZD
+id = 285200196254779
+
+IGQVJWcDZAWYmxiM3BHSlQ0bVBYVFFVajRpOXlhQnlUN25iLWZApa2tOLTdOSkJRMHdVSHE1bnVpam5FTHNUaTR2VjRWRzRkU0M5cVlPaWRJV0gtcmFFeVVhZAG1BYWtiMDdaYWdidnUwWUtfVEFwazBySQZDZD
+
+
+
+https://api.instagram.com/oauth/authorize
+  ?client_id=285200196254779
+  &redirect_uri=http://localhost:8080/#/
+  &scope=user_profile,user_media
+  &response_type=code
